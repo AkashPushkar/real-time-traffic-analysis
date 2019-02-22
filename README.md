@@ -1,4 +1,4 @@
-# real-time-traffic-analysis #
+# Real-time Traffic Analysis and Visualization#
 This is real-time traffic visualization project done for the city of Ann Arbor, Michigan 
 
 ## Dependencies ##
