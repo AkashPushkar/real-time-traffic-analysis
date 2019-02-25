@@ -1,5 +1,5 @@
 # Real-time Traffic Analysis and Visualization
-This is real-time traffic visualization project done for the city of Ann Arbor, Michigan 
+This is real-time traffic visualization project done for the city of Ann Arbor, Michigan
 
 ## Data Description ##
 Data used is found [here](https://data.transportation.gov/Automobiles/Safety-Pilot-Model-Deployment-Data/a7qq-9vfe). Data despcription is as follows (https://data.transportation.gov/Automobiles/Safety-Pilot-Model-Deployment-Data/a7qq-9vfe/data?pane=manage)
@@ -34,6 +34,8 @@ Data used is found [here](https://data.transportation.gov/Automobiles/Safety-Pil
 | ThrottleWsu    | Real    | none         | Throttle position from vehicle CAN Bus via WSU                                                                                         |
 | SteerWsu       | Real    | deg          | Steering angle/position from vehicle CAN Bus via WSU                                                                                   |
 
+### Data of the roads of Ann Arbor and WSU GPS data ###
+![alt text](https://github.com/AkashPushkar/real-time-traffic-analysis/blob/master/doc/Screenshot%20from%202019-02-24%2023-58-35.png?raw=true)
 
 ## Dependencies ##
 ### Web Visualization ###
